@@ -12,4 +12,7 @@ class MainActivity : AppCompatActivity() {
 
     fun test1(): String =
         "test"
+
+    fun test2(): String =
+        "test"
 }
