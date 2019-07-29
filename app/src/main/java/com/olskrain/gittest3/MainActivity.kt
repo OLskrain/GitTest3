@@ -15,4 +15,14 @@ class MainActivity : AppCompatActivity() {
 
     fun test2(): String =
         "test"
+
+
+    fun test3(): String =
+        "test"
+
+    fun test4(): String =
+        "test"
+
+    fun test5(): String =
+        "test"
 }
